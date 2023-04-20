@@ -19,7 +19,8 @@ int main() {
    }
    else if((nome[0]==lista_nomi[2][0])and(nome[1]==lista_nomi[2][1])and(nome[2]==lista_nomi[2][2])and(nome[3]==lista_nomi[2][3])and(nome[4]==lista_nomi[2][4])) {
       cout<<"2";
-   else {
+   }
+    else {
       cout<<"";  
    }   
 
